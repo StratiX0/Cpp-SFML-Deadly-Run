@@ -1,6 +1,6 @@
 # Cpp SFML Deadly Run
 
-Jeu vidéo en C++ et SFML développé en 2 semaines. (non complet)
+Jeu vidéo en C++ et SFML développé en 2 semaines. (non complet).<br><br>
 Jeu top down de voiture consistant à éviter les voitures du trafic et avoir le meilleur score.
 
 ## Jouer au jeu
